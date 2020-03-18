@@ -1,0 +1,14 @@
+{
+  "name": "instacc",
+  "version": "1.0.0",
+  "description": "test integration with circle",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "aplight",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
